@@ -11,4 +11,4 @@ Iremos acessar essas variáveis, pegando seus valores iniciais, e trocar pelo da
 - CSS
 - JavaScript
 
-![](https://github.com/EusRique/dark/blob/master/dark.gif)
+![](https://github.com/EusRique/dark-mode/blob/master/dark.gif)
